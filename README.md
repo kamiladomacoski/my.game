@@ -1,7 +1,6 @@
 # myapp
 
-A new Flutter project.
-
+o famoso jogo da velha verção coelho
 ## Getting Started
 
 This project is a starting point for a Flutter application.
